@@ -3,7 +3,7 @@ layout: default
 title: Jonathan Crabbé's' website
 ---
 <h1>Jonathan Crabbé</h1>
-<img src="/images/jonathan.jpg" alt="Jonathan Crabbé" width="200">
+<img src="/images/jonathan.jpg" alt="Simply Easy Learning" width="200">
 <p>I am a PhD student in <em>Explainable Artificial Intelligence (XAI) </em>
 	 in the Department of Applied Mathematics and Theoretical Physics at
 	 the <em>University of Cambridge</em>. </p>
