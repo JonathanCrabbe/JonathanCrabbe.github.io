@@ -18,7 +18,8 @@ a {
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    color: DarkCyan;
+    /*text-decoration: underline;*/
 }
 h1 {
     font-size: 3em;
@@ -41,4 +42,18 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+ol#publications{
+
+}
+
+img.align-left{
+  float:left;
+  margin-right: 10px;
+}
+
+img.medium{
+  width: 250px;
+  height: : 300px;
 }
