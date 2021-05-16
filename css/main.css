@@ -57,3 +57,11 @@ img.align-left{
 img.medium{
   width: 150px;
 }
+
+.icon{
+  background:none;
+}
+
+.icon:hover{
+  background:DarkCyan;
+}
