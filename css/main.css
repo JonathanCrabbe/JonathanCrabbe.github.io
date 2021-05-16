@@ -25,6 +25,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -50,10 +51,9 @@ ol#publications{
 
 img.align-left{
   float:left;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 img.medium{
-  width: 250px;
-  height: : 300px;
+  width: 150px;
 }
