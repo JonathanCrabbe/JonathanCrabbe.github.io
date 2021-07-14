@@ -3,10 +3,10 @@ layout: default
 title: Jonathan Crabbé
 ---
 
-<center style="font-size:1.3em" class="align-left">
+<center style="font-size: 1.5em" class="align-left">
 <img src="/images/jonathan.jpg" alt="Jonathan Crabbé"
 	 class="avatar"/> <br>
-	 <h2> Jonathan Crabbé </h2> 
+	 <span style="font-size: 1.6em"> Jonathan Crabbé </span> <br> <br>
 	  PhD Candidate <br>
 	  University of Cambridge  </center>
 <h1> About me </h1>
