@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Jonathan Crabbé's' website
+title: Jonathan Crabbé
 ---
 
-<h1>Jonathan Crabbé</h1>
 <p style="font-size:1.7em">
 <img src="/images/jonathan.jpg" alt="Jonathan Crabbé"
-	 class="align-left medium"/>
+	 class="align-left avatar"/>
 	 PhD Candidate <br>
 	 Explainable Artificial Intelligence (XAI) <br>
 	 Department of Applied Mathematics and Theoretical Physics <br>

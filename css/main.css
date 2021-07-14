@@ -1,24 +1,44 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0px auto;
+    width: 100%;
 }
+
+span.website-name{
+  font-size: 18pt;
+  margin-left: 2%;
+  margin-right: 3%;
+  color: white;
+}
+
+nav {
+  background-color: #1C2833;
+  font-size: 12pt;
+  overflow:auto;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 1px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 15pt;
 }
+
+nav ul li a{
+  color:white;
+}
+
 a {
     color: #999;
     background-color: transparent;
     text-decoration: none;
 }
 a:hover {
-    color: DarkCyan;
+    color: #21618C;
     /*text-decoration: underline;*/
 }
 h1 {
@@ -34,6 +54,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    background-color: #1C2833;
+
 }
 
 ul.posts {
@@ -54,14 +76,23 @@ img.align-left{
   margin-right: 20px;
 }
 
-img.medium{
+img.avatar{
   width: 150px;
+  border-radius: 50%;
 }
 
 .icon{
   background:none;
+  border-radius: 50%;
 }
 
 .icon:hover{
   background:DarkCyan;
+}
+
+div.container{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
