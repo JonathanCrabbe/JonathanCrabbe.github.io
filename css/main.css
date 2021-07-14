@@ -56,7 +56,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 0;
+    padding-bottom: 10px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     background-color: #1C2833;
@@ -76,14 +76,16 @@ ol#publications{
 
 }
 
-img.align-left{
+.align-left{
   float:left;
-  margin-right: 20px;
+  margin-right: 100px;
 }
 
 img.avatar{
   width: 150px;
   border-radius: 50%;
+  margin-bottom: 15px;
+  margin-top: 20px;
 }
 
 .icon{
