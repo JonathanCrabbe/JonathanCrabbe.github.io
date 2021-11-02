@@ -11,16 +11,33 @@ title: Jonathan Crabbé
 	  University of Cambridge  </center>
 <br>
 <center>
-<p>  My research focuses on explaining modern Machine Learning models.
-	   The notion of explainability has become central in Machine Learning since
-	   large-scale deployment of Machine Learning models requires trust,
-	   which relies heavily on the ability of human beings to understand
-	   the predictions of such models.</p>
+
+<p> I am currently working on my PhD thesis in the van der Schaar lab, a Machine Learning lab from the
+University of Cambridge led by Mihaela van der Schaar. This lab is among the most prolific machine
+learning lab in the world. In this stimulating environment, I am learning to become a leading
+researcher in machine learning. </p>
+
+<p> My research focuses on Explainable AI with a special focus on explaining the latent representations
+that are involved in state-of-the-art machine learning models. The purpose of this research agenda is
+to formalize and implement an interface between complex state-of-the-art machine learning models
+and human beings. This interface would allow human beings to understand how the data is
+processed by machine-learning models to perform a given task, which is not yet possible due to the
+inherent complexity of those models. </p>
+
+<p>I have a particular focus in making sense of time series models: Why do they work? How do they
+make predictions? How can we improve their robustness? I believe that those questions are crucial
+and very related to my primary Explainable AI focus, since time series data is pervasive in high-stakes
+domains such as medicine and finance. Clearly, we want to understand the models we are dealing
+with in those settings. </p>
 
 <h2> Research Topics </h2>
 <ul>
 <li> Explainable Artificial Intelligence (XAI) </li>
-<li> Machine Learning </li>
-<li> Time Series Forecasting </li>
+<li> Representation Learning and Understanding </li>
+<li> Time Series Modelling </li>
+<li> Noise/Outier Detection </li>
+<li> Robutst Machine Learning </li>
+<li> Machine Learning for Medicine </li>
 </ul>
+
 </center>
