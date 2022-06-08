@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Importance | Jonathan Crabbé</title>
+    <link>https://jonathancrabbe.github.io/tag/feature-importance/</link>
+      <atom:link href="https://jonathancrabbe.github.io/tag/feature-importance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Importance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Importance</title>
+      <link>https://jonathancrabbe.github.io/tag/feature-importance/</link>
+    </image>
+    
+    <item>
+      <title>Label-Free Explainability for Unsupervised Models</title>
+      <link>https://jonathancrabbe.github.io/publication/lfxai/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/lfxai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Latent Representations with a Corpus of Examples</title>
+      <link>https://jonathancrabbe.github.io/publication/simplex/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/simplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Time Series Predictions with Dynamic Masks</title>
+      <link>https://jonathancrabbe.github.io/publication/dynamask/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/dynamask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

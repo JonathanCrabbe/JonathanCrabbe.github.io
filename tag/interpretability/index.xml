@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability | Jonathan Crabbé</title>
+    <link>https://jonathancrabbe.github.io/tag/interpretability/</link>
+      <atom:link href="https://jonathancrabbe.github.io/tag/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interpretability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
+      <title>Interpretability</title>
+      <link>https://jonathancrabbe.github.io/tag/interpretability/</link>
+    </image>
+    
+    <item>
+      <title>Label-Free Explainability for Unsupervised Models</title>
+      <link>https://jonathancrabbe.github.io/publication/lfxai/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/lfxai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Latent Representations with a Corpus of Examples</title>
+      <link>https://jonathancrabbe.github.io/publication/simplex/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/simplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Time Series Predictions with Dynamic Masks</title>
+      <link>https://jonathancrabbe.github.io/publication/dynamask/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/dynamask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning outside the black-box: the pursuit of interpretable models</title>
+      <link>https://jonathancrabbe.github.io/publication/symbolic_pursuit/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/symbolic_pursuit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Artificial Intelligence</title>
+      <link>https://jonathancrabbe.github.io/project/xai/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/project/xai/</guid>
+      <description>&lt;p&gt;How can we make a machine learning model convincing? If accuracy is undoubtedly necessary, it is rarely sufficient. Models such as neural networks typically involve millions of operations to turn their input data into a prediction. This complexity permits to accurately solve hard problems like computer vision and protein structure prediction. However, this accuracy comes at the expense of interpretability: these complex models appear as black boxes for human users. When models penetrate critical areas such as medicine, finance and the criminal justice system, their black-box nature appears as a major issue. An important question follows: is it possible to explain the predictions of complex machine-learning models?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Explainable AI&lt;/em&gt; tackles this question by providing an interface between complex models and human users. To illustrate, let us consider the example of a medical machine learning model that recommends a treatment for a patient. By using post-hoc explainability, we can answer crucial questions such as “What part of this patient’s data motivates the model’s recommendation?” or “Are there similar patients previously seen by the model for which this treatment worked?”. In a setting where human knowledge is available (e.g. computer vision), this type of information is crucial to validate/debug the model. In a setting where little human knowledge (e.g. scientific discovery), this type of information permits to extract knowledge from the model.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -64,10 +64,10 @@
   
     
   
-  <meta name="description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." />
+  <meta name="description" content="We introduce Dynamask, a perturbation-based feature importance method to explain the predictions of time series models." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://jonathancrabbe.github.io/404.html" />
+  <link rel="alternate" hreflang="en-us" href="https://jonathancrabbe.github.io/publication/dynamask/" />
 
   
   
@@ -282,7 +282,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://jonathancrabbe.github.io/404.html" />
+  <link rel="canonical" href="https://jonathancrabbe.github.io/publication/dynamask/" />
 
   
   
@@ -293,7 +293,6 @@
   
   
     
-    
   
   
 
@@ -302,37 +301,90 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Jonathan Crabbé" />
-  <meta property="og:url" content="https://jonathancrabbe.github.io/404.html" />
-  <meta property="og:title" content="404 Page not found | Jonathan Crabbé" />
-  <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://jonathancrabbe.github.io/publication/dynamask/" />
+  <meta property="og:title" content="Explaining Time Series Predictions with Dynamic Masks | Jonathan Crabbé" />
+  <meta property="og:description" content="We introduce Dynamask, a perturbation-based feature importance method to explain the predictions of time series models." /><meta property="og:image" content="https://jonathancrabbe.github.io/publication/dynamask/featured.png" />
+    <meta property="twitter:image" content="https://jonathancrabbe.github.io/publication/dynamask/featured.png" /><meta property="og:locale" content="en-us" />
   
     
+      <meta
+        property="article:published_time"
+        content="2021-06-09T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-06-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jonathancrabbe.github.io/publication/dynamask/"
+  },
+  "headline": "Explaining Time Series Predictions with Dynamic Masks",
+  
+  "image": [
+    "https://jonathancrabbe.github.io/publication/dynamask/featured.png"
+  ],
+  
+  "datePublished": "2021-06-09T00:00:00Z",
+  "dateModified": "2021-06-09T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jonathan Crabbé"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jonathan Crabbé",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We introduce Dynamask, a perturbation-based feature importance method to explain the predictions of time series models."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>404 Page not found | Jonathan Crabbé</title>
+  <title>Explaining Time Series Predictions with Dynamic Masks | Jonathan Crabbé</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b428aa361fdd98ce871ad7675c40fb49" >
 
   
   
@@ -742,50 +794,476 @@
     
     
 
-    <div class="universal-wrapper pt-3">
+    
 
-  <h1>Page not found</h1>
 
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
 
-  
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+<div class="pub">
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
-  <h2>Latest</h2>
-  <ul>
+
+
+<div class="article-container pt-3">
+  <h1>Explaining Time Series Predictions with Dynamic Masks</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
     
-      <li><a href="/event/">Recent &amp; Upcoming Talks</a></li>
+
+  <span class="author-highlighted">
+      Jonathan Crabbé</span>, <span >
+      Mihaela van der Schaar</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
     
-      <li><a href="/talk/2-spotlight-presentations-at-icml-2022/">2 Spotlight Presentations at ICML 2022</a></li>
     
-      <li><a href="/post/">Posts</a></li>
+      
     
-      <li><a href="/post/icml2022_two_papers/">2 Papers Accepted at ICML 2022</a></li>
+    June, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
     
-      <li><a href="/project/repl/">Representation Learning</a></li>
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2106.05303.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/dynamask/cite.bib">
+  Cite
+</a>
+
+
+  
+  
     
-      <li><a href="/publication/">Publications</a></li>
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/JonathanCrabbe/Dynamask" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/xai/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+  
+  
     
-      <li><a href="/project/">Projects</a></li>
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://slideslive.com/38958885" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 600px; max-height: 399px;">
+  <div style="position: relative">
+    <img src="/publication/dynamask/featured_hu22921d4062ea2b0d9b0fc6784522e04e_12787_720x2500_fit_q75_h2_lanczos_3.webp" width="600" height="399" alt="" class="featured-image">
+    <span class="article-header-caption">Dynamask Blueprint</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
     
-      <li><a href="/publication/lfxai/">Label-Free Explainability for Unsupervised Models</a></li>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">How can we explain the predictions of a machine learning model? When the data is structured as a multivariate time series, this question induces additional difficulties such as the necessity for the explanation to embody the time dependency and the large number of inputs. To address these challenges, we propose dynamic masks (Dynamask). This method produces instance-wise importance scores for each feature at each time step by fitting a perturbation mask to the input sequence. In order to incorporate the time dependency of the data, Dynamask studies the effects of dynamic perturbation operators. In order to tackle the large number of inputs, we propose a scheme to make the feature selection parsimonious (to select no more feature than necessary) and legible (a notion that we detail by making a parallel with information theory). With synthetic and real-world data, we demonstrate that the dynamic underpinning of Dynamask, together with its parsimony, offer a neat improvement in the identification of feature importance over time. The modularity of Dynamask makes it ideal as a plug-in to increase the transparency of a wide range of machine learning models in areas such as medicine and finance, where time series are abundant.</p>
     
-      <li><a href="/project/rml/">Robust Machine Learning</a></li>
+
     
-      <li><a href="/publication/data_suite/">Data-SUITE: Data-centric identification of in-distribution incongruous examples</a></li>
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>ICML 2021</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/explainability/">Explainability</a>
+  
+  <a class="badge badge-light" href="/tag/interpretability/">Interpretability</a>
+  
+  <a class="badge badge-light" href="/tag/time-series/">Time Series</a>
+  
+  <a class="badge badge-light" href="/tag/masks/">Masks</a>
+  
+  <a class="badge badge-light" href="/tag/feature-importance/">Feature Importance</a>
+  
+  <a class="badge badge-light" href="/tag/machine-learning/">Machine learning</a>
+  
+  <a class="badge badge-light" href="/tag/deep-learning/">Deep learning</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://jonathancrabbe.github.io/publication/dynamask/&amp;text=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://jonathancrabbe.github.io/publication/dynamask/&amp;t=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks&amp;body=https://jonathancrabbe.github.io/publication/dynamask/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://jonathancrabbe.github.io/publication/dynamask/&amp;title=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks%20https://jonathancrabbe.github.io/publication/dynamask/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://jonathancrabbe.github.io/publication/dynamask/&amp;title=Explaining%20Time%20Series%20Predictions%20with%20Dynamic%20Masks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://jonathancrabbe.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua3f9d9cc5c23c8121f138dfc8e834bde_45012_270x270_fill_q75_lanczos_center.jpg" alt="Jonathan Crabbé"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://jonathancrabbe.github.io/">Jonathan Crabbé</a></h5>
+      <h6 class="card-subtitle">PhD Researcher</h6>
+      <p class="card-text">My research interests include explainable artificial intelligence, representation learning and robust machine learning.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/JonathanICrabbe" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=Y_Nmd2sAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/JonathanCrabbe" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/jonathancrabbe/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
