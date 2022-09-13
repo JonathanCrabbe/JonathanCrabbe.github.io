@@ -10,7 +10,35 @@
   <url>
     <loc>https://jonathancrabbe.github.io/event/</loc><lastmod>2022-07-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/publication-type/1/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/publication/iterpretability/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/explainability/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/interpretability/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/medicine/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/publication_types/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/publication/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/robust-machine-learning/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tags/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/treatment-effect/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/post/icml2022_two_papers/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -24,15 +52,9 @@
   <url>
     <loc>https://jonathancrabbe.github.io/tag/icml/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://jonathancrabbe.github.io/post/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/publication/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jonathancrabbe.github.io/tags/</loc><lastmod>2022-06-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jonathancrabbe.github.io/publication-type/1/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/autoencoder/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -40,15 +62,11 @@
   <url>
     <loc>https://jonathancrabbe.github.io/tag/example-importance/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jonathancrabbe.github.io/tag/explainability/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://jonathancrabbe.github.io/tag/feature-importance/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/few-shot-learning/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/influential-examples/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jonathancrabbe.github.io/tag/interpretability/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/publication/lfxai/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -56,13 +74,7 @@
   <url>
     <loc>https://jonathancrabbe.github.io/tag/machine-learning/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://jonathancrabbe.github.io/project/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jonathancrabbe.github.io/publication_types/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jonathancrabbe.github.io/publication/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/project/repl/</loc><lastmod>2022-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -88,13 +100,19 @@
   <url>
     <loc>https://jonathancrabbe.github.io/tag/reliability/</loc><lastmod>2022-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jonathancrabbe.github.io/tag/robust-machine-learning/</loc><lastmod>2022-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://jonathancrabbe.github.io/project/rml/</loc><lastmod>2022-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/robustness/</loc><lastmod>2022-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/safety/</loc><lastmod>2022-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-02-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/publication/daux/</loc><lastmod>2022-02-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-02-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jonathancrabbe.github.io/tag/uncertainty/</loc><lastmod>2022-02-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jonathancrabbe.github.io/tag/case-based-reasoning/</loc><lastmod>2021-11-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
