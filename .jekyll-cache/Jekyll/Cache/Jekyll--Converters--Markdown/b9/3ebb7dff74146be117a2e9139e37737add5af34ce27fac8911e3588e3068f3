@@ -1,0 +1,39 @@
+I"I<center style="font-size: 1.5em">
+<img src="/images/jonathan.jpg" alt="Jonathan Crabbé" class="avatar" /> <br />
+	 <span style="font-size: 1.6em"> Jonathan Crabbé </span> <br /> <br />
+	  PhD Candidate <br />
+	  University of Cambridge  </center>
+<p><br /></p>
+<center>
+
+<h2> Research Topics </h2>
+<ul>
+<li> Explainable Artificial Intelligence (XAI) </li>
+<li> Representation Learning and Understanding </li>
+<li> Time Series Modelling </li>
+<li> Noise/Outier Detection </li>
+<li> Robutst Machine Learning </li>
+<li> Machine Learning for Medicine </li>
+</ul>
+
+
+<p> I am currently working on my PhD thesis in the van der Schaar lab, a Machine Learning lab from the
+University of Cambridge led by Mihaela van der Schaar. This lab is among the most prolific machine
+learning lab in the world. In this stimulating environment, I am learning to become a leading
+researcher in machine learning. </p>
+
+<p> My research focuses on Explainable AI with a special focus on explaining the latent representations
+that are involved in state-of-the-art machine learning models. The purpose of this research agenda is
+to formalize and implement an interface between complex state-of-the-art machine learning models
+and human beings. This interface would allow human beings to understand how the data is
+processed by machine-learning models to perform a given task, which is not yet possible due to the
+inherent complexity of those models. </p>
+
+<p>I have a particular focus in making sense of time series models: Why do they work? How do they
+make predictions? How can we improve their robustness? I believe that those questions are crucial
+and very related to my primary Explainable AI focus, since time series data is pervasive in high-stakes
+domains such as medicine and finance. Clearly, we want to understand the models we are dealing
+with in those settings. </p>
+
+</center>
+:ET
