@@ -5,12 +5,20 @@
     <link>https://jonathancrabbe.github.io/tag/robust-machine-learning/</link>
       <atom:link href="https://jonathancrabbe.github.io/tag/robust-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Robust Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
       <title>Robust Machine Learning</title>
       <link>https://jonathancrabbe.github.io/tag/robust-machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data</title>
+      <link>https://jonathancrabbe.github.io/publication/data_iq/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/data_iq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability</title>
