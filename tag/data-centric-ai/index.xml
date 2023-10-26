@@ -5,12 +5,20 @@
     <link>https://jonathancrabbe.github.io/tag/data-centric-ai/</link>
       <atom:link href="https://jonathancrabbe.github.io/tag/data-centric-ai/index.xml" rel="self" type="application/rss+xml" />
     <description>Data-Centric AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
       <title>Data-Centric AI</title>
       <link>https://jonathancrabbe.github.io/tag/data-centric-ai/</link>
     </image>
+    
+    <item>
+      <title>TRIAGE: Characterizing and auditing training data for improved regression</title>
+      <link>https://jonathancrabbe.github.io/publication/triage/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/triage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Jonathan Crabbé</title>
+    <link>https://jonathancrabbe.github.io/tag/computer-vision/</link>
+      <atom:link href="https://jonathancrabbe.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Vision</title>
+      <link>https://jonathancrabbe.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Explaining the Absorption Features of Deep Learning Hyperspectral Classification Models</title>
+      <link>https://jonathancrabbe.github.io/publication/absorption/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/absorption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

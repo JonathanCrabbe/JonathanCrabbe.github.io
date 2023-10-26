@@ -5,12 +5,36 @@
     <link>https://jonathancrabbe.github.io/</link>
       <atom:link href="https://jonathancrabbe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Crabbé</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
       <title>Jonathan Crabbé</title>
       <link>https://jonathancrabbe.github.io/</link>
     </image>
+    
+    <item>
+      <title>Robust multimodal models have outlier features and encode more concepts</title>
+      <link>https://jonathancrabbe.github.io/publication/eri/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/eri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the Absorption Features of Deep Learning Hyperspectral Classification Models</title>
+      <link>https://jonathancrabbe.github.io/publication/absorption/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/absorption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIAGE: Characterizing and auditing training data for improved regression</title>
+      <link>https://jonathancrabbe.github.io/publication/triage/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jonathancrabbe.github.io/publication/triage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance</title>
@@ -181,7 +205,7 @@ I will post the relevant practical information &lt;a href=&#34;https://jonathanc
     </item>
     
     <item>
-      <title>DAUX: a Density-based Approach for Uncertainty eXplanations</title>
+      <title>Latent Density Models for Uncertainty Categorization</title>
       <link>https://jonathancrabbe.github.io/publication/daux/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://jonathancrabbe.github.io/publication/daux/</guid>
@@ -213,7 +237,7 @@ I will post the relevant practical information &lt;a href=&#34;https://jonathanc
     </item>
     
     <item>
-      <title>Explainable Artificial Intelligence</title>
+      <title>Interpretable Machine Learning</title>
       <link>https://jonathancrabbe.github.io/project/xai/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jonathancrabbe.github.io/project/xai/</guid>
